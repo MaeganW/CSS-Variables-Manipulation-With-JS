@@ -1,0 +1,19 @@
+{
+  "name": "css-variables-manipulation-with-js",
+  "version": "1.0.0",
+  "description": "Wes Bos' 30 Days of Javascript Challenge: Day 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS.git"
+  },
+  "author": "Maegan Womble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS/issues"
+  },
+  "homepage": "https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS#readme"
+}
