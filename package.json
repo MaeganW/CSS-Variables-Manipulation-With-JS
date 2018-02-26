@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS/issues"
   },
-  "homepage": "https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS#readme"
+  "homepage": "https://github.com/MaeganW/CSS-Variables-Manipulation-With-JS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
